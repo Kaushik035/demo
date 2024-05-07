@@ -1,4 +1,4 @@
 # demo
 This is my first repo
 <br>
-Author - Kaushik Mandal
+Author - Kaushik Mandal (IITB)
